@@ -1,0 +1,8 @@
+C - 5 - 5 
+M - 0 - 3
+M - 3 - 1
+T - 1 - 3 - 2 
+T - 3 - 4 - 3 
+T - 4 - 1 - 1 
+A - Mario - 0 - 1 - S - AAGADAADDADAADAA
+A - Luigi - 4 - 3 - O - AGAGAGAAADDAAADA
